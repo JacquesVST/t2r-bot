@@ -5,11 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "node-telegram-bot-api": "^0.54.0",
+    "node-telegram-bot-api": "^0.58.0",
     "reddit-simple": "^2.1.1",
     "snoowrap": "^1.23.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
